@@ -1,1 +1,2 @@
-This is my Data Visuaization repository
+This is the repository for Data Visuaization created by me.
+
