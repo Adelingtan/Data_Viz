@@ -1,5 +1,5 @@
-download labor.zip
-in Rstudio:
-install.packages("quantmod")
+Download `labor.zip` <br/>
+in Rstudio: <br/>
+install.packages("quantmod")</br>
 runApp("labor")
 
